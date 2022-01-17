@@ -8,7 +8,7 @@ The SCH Corpus is based upon most of the posts from the `soc.culture.hmong` or S
 
 ## Privacy and Intellectual Property
 
-Posts have been anonymized to the degree possible given the available resources. All headers and metadata have been removed from posts. Some personal names, especially of public figures, and user names may remain.
+Posts have been anonymized to the degree possible given the available resources. All headers and metadata have been removed from posts. Some personal names, especially of public figures, and aliases may remain.
 
 If you are an author of material that is present in this corpus and you believe that the material is being used and or distributed without your consent and contrary to your desires, please contact [David R. Mortensen](mailto:dmortens@cs.cmu.edu) and provide him with the file names where the relevant posts occur. These will be immediately expunged from the corpus.
 
